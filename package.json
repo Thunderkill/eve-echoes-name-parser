@@ -1,0 +1,15 @@
+{
+  "name": "name-descrambler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --experimental-json-modules index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mrmr": "^0.1.10"
+  }
+}
