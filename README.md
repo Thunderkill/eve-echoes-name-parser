@@ -1,4 +1,4 @@
-# eve-echoes-name-parser
+# evening-echo-name-parser
 
 ## How to use
 
